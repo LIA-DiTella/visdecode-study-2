@@ -3,7 +3,7 @@
 > **Martín Sinnona, Valentín Bonás, Emmanuel Iarussi, Viviana Siless**  
 > Universidad Torcuato Di Tella · CONICET · Universidad de Buenos Aires  
 
-[![arXiv](https://img.shields.io/badge/arXiv-Read%20Paper-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-Read%20Paper-b31b1b.svg)](https://arxiv.org/pdf/2602.20084)
 
 ---
 
@@ -111,5 +111,12 @@ We measure:
 ## 📚 Citation
 
 ```bibtex
-@inproceedings{
+@misc{sinnona2026largelanguagemodelsunderstand,
+      title={Do Large Language Models Understand Data Visualization Principles?}, 
+      author={Martin Sinnona and Valentin Bonas and Viviana Siless and Emmanuel Iarussi},
+      year={2026},
+      eprint={2602.20084},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.20084}, 
 }
